@@ -16,6 +16,7 @@ public class FirstFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
 
+        // With this action you change the text in the first fragment 
         ViewGroup viewGroup = (ViewGroup) inflater.inflate(R.layout.first_fragment,container,false);
         TextView textView = viewGroup.findViewById(R.id.textView);
         textView.setText("First Fragment Example");
