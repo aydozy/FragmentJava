@@ -7,6 +7,8 @@ A `Fragment` represents a reusable portion of your app's UI. A fragment defines 
 When you press the first fragment button, the first fragment screen will appear, and when you press the second fragment button, the second fragment screen will appear.
 With fragments, we can show the transition between pages on a single screen.
 
-![262964768-eaf28a18-9c7c-4ef6-9fcc-787e702ab159](https://github.com/aydozy/FragmentJava/assets/104395137/beca2636-2b54-488f-8018-91fbf568e45f)
-![262964788-fd06c1c6-69e4-4e07-802d-acb946dfa57d](https://github.com/aydozy/FragmentJava/assets/104395137/fc57fc72-f878-49ea-9225-f4d16f83ad51)
+![screen1](https://github.com/aydozy/FragmentJava/assets/104395137/54bf5d28-7bf8-4cf6-a6b9-8703cbdc6daa) 
+
+![screen2](https://github.com/aydozy/FragmentJava/assets/104395137/5b1026a3-b861-4379-940e-4c27cee9eb0c)
+
 
